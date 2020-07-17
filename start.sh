@@ -1,3 +1,6 @@
 #!/bin/bash
-
-echo "testing-testing" >> /home/ubuntu/myfile
+while true
+do
+  echo "testing" >> myfile
+  sleep 5
+done
