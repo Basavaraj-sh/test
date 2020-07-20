@@ -1,6 +1,6 @@
 #!/bin/bash
 while true
 do
-  echo "testing" >> myfile
+  echo "testing" >> /home/ubuntu/myfile
   sleep 5
 done
