@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo service ssh start
+sleep 300
 #sudo echo "mgic" >> myfile
 #sudo apt-get update
